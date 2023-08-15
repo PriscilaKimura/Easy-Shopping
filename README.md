@@ -1,6 +1,5 @@
 <h1>Easy-Shopping</h1>
 <br>
-<br>
 <h2> Projeto de estudo proposto pelo curso <a href="https://rodolfomori.com.br/devclub">DevClub</a>. </h2>
 
 <h3> Descrição: </h3>
@@ -16,4 +15,5 @@
   
 
 <img src="https://github.com/PriscilaKimura/Easy-Shopping/blob/main/img/projeto%20img.jpg?raw=true"/>
+<img src="https://github.com/PriscilaKimura/Easy-Shopping/blob/main/img/projeto%20img%20cel.jpg?raw=true"/>
 
