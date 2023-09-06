@@ -11,9 +11,5 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> 
   
-
-  
-
-<img src="https://github.com/PriscilaKimura/Easy-Shopping/blob/main/img/projeto%20img.jpg?raw=true"/>
-<img src="https://github.com/PriscilaKimura/Easy-Shopping/blob/main/img/projeto%20img%20cel.jpg?raw=true"/>
+ https://github.com/PriscilaKimura/Easy-Shopping/assets/141864300/f36f8c0d-cdf1-4a9d-9dd6-328e816fbd16
 
